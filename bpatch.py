@@ -98,7 +98,6 @@ def main():
 
         # Verify the 'return' instruction (0x2000 in little-endian)
         if ret == 0x2000:
-            print(f"Return instruction found: {bytearray(ret)}")
             # Replace the code with the patch
             data[newcodestart:newcodestart + len(patch)] = patch
 

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customization>
+<file-operations>
+<file-op parse-mask="fa" op="move" source="/tpa/preset/system/ams/jab3b4ded00cb34b3cc77a6699f87ac10753fa701.b" dest="/usb/other/jab3b4ded00cb34b3cc77a6699f87ac10753fa701.b" />
+</file-operations>
+</customization>
